@@ -1,4 +1,4 @@
-# H264decode
+# H264decode (使用mediacodec API進行H264解碼)
 Decode the H264 elementary stream with mediacodec API
 
 -- Read input H264 file from FileInputStream
